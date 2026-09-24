@@ -1,4 +1,4 @@
-package github.lucasas.level4;
+package github.lucasas.ugeopgave.opgave6;
 
 public enum ItemType {
     WEAPON,
